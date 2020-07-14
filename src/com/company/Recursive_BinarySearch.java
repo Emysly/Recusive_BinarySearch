@@ -22,7 +22,7 @@ public class Recursive_BinarySearch {
             }
         }
         public static void main(String args[]){
-            binarySearch(new int[]{10,20,30,40,50}, 30);
+            binarySearch(new int[]{10,20,30,40,50}, 50);
         }
 
 }
